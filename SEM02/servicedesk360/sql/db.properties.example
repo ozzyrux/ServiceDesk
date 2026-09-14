@@ -1,0 +1,6 @@
+# Copiar este archivo a ~/.servicedesk360/db.properties (Linux/macOS)
+# o %USERPROFILE%\.servicedesk360\db.properties (Windows) y cambiar la clave.
+# ESTE ARCHIVO DE EJEMPLO SI VA AL REPOSITORIO; db.properties (real) NUNCA.
+db.url=jdbc:mysql://localhost:3306/servicedesk360_db?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8
+db.user=servicedesk_app
+db.password=CAMBIAR_LOCALMENTE
